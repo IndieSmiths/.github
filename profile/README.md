@@ -8,6 +8,7 @@ Check our recently released app [nodezator](https://github.com/IndiePython/nodez
 
 You can also find Kennedy (me) in one of the links below:
 
-- [Github](https://github.com/KennedyRichard)
-- <a rel="me" href="https://fosstodon.org/@KennedyRichard">Mastodon</a>
-- [Email](mailto:kennedy@kennedyrichard.com)
+- [github](https://github.com/KennedyRichard)
+- <a rel="me" href="https://fosstodon.org/@KennedyRichard">mastodon</a>
+- [twitter](https://github.com/KennedyRichard)
+- [email](mailto:kennedy@kennedyrichard.com)
