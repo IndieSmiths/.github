@@ -1,6 +1,6 @@
 # :wave: Welcome to Indie Python's github profile
 
-Indie Python is a personal project by [@KennedyRichard](https://github.com/KennedyRichard) that aims to publish and manage independent Python open-source apps, games and content to promote fun and learning.
+Indie Python is a personal project by [@KennedyRichard](https://github.com/KennedyRichard) that aims to promote fun and learning by publishing and maintaining independent Python open-source apps, games and content.
 
 Check our recently released app [nodezator](https://github.com/IndiePython/nodezator).
 
