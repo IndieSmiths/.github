@@ -2,13 +2,32 @@
 
 Indie Python is a personal project by [@KennedyRichard](https://github.com/KennedyRichard) that aims to promote fun and learning by publishing and maintaining independent Python open-source apps, games and content.
 
-Check our recently released app [nodezator](https://github.com/IndiePython/nodezator).
+You can also find Kennedy (me) in one of those links: [github](https://github.com/KennedyRichard), [mastodon](https://fosstodon.org/@KennedyRichard), [twitter](https://github.com/KennedyRichard), [email](mailto:kennedy@kennedyrichard.com).
 
-![nodezator screenshot](https://nodezator.com/images/screenshot.png)
+Below we present our repositories in an organized manner to help you find useful stuff.
 
-You can also find Kennedy (me) in one of the links below:
+## Highlights (fun or popular stuff):
 
-- [github](https://github.com/KennedyRichard)
-- <a rel="me" href="https://fosstodon.org/@KennedyRichard">mastodon</a>
-- [twitter](https://github.com/KennedyRichard)
-- [email](mailto:kennedy@kennedyrichard.com)
+<img alt="nodezator screenshot" src="https://nodezator.com/images/screenshot.png" style="width:400px;" />
+
+[Nodezator desktop app](https://github.com/IndiePython/nodezator): A multi-purpose visual node editor for the Python programming language.
+
+<img alt="Dani to The Rescue screenshot" src="https://i.imgur.com/mVItT7D.jpg" style="width:400px;" />
+
+[Dani to The Rescue desktop game](https://github.com/IndiePython/danittr): a game prototype made with the pygame library, a platformer game. A prototype not under development anymore. Published for educational purposes only.
+
+## Website repos
+
+| Repo link | Description |
+| ---- | ----------- |
+| [indiepython.com](https://github.com/IndiePython/indiepython.com) | Website of the Indie Python project |
+| [nodezator.com](https://github.com/IndiePython/nodezator.com) | Website of the Nodezator desktop app |
+| [gallery.nodezator.com](https://github.com/IndiePython/gallery.nodezator.com) | Website wherein to find interesting node packs for the Nodezator desktop app |
+
+## Project's development write ups
+
+Writing pieces related to development in Indie Python projects
+
+| Repo link | Description |
+| ---- | ----------- |
+| [on-branching-looping-in-nodezator](https://github.com/IndiePython/on-branching-looping-in-nodezator) | Article on approach to implement branching and looping in Nodezator |
