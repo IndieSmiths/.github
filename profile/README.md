@@ -16,6 +16,9 @@ Below we present our repositories in an organized manner to help you find useful
 
 <a href="https://github.com/IndiePython/bionic-blue"><img alt="Bionic Blue screenshot" src="https://i.imgur.com/WvF1kum.png" style="width:400px;" /></a>
 
+❤️ Please, consider supporting my work at the Indie Python project so more free open-source apps, games and content can be produced and maintained steadily: [github sponsors page](https://github.com/sponsors/KennedyRichard), [more donation options](https://indiepython.com/donate);
+
+🗣 You are also welcome to join us on our [discord server](https://indiepython.com/discord)!
 
 ## Website repos
 
