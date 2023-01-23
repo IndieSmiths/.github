@@ -10,11 +10,11 @@ Below we present our repositories in an organized manner to help you find useful
 
 [Nodezator desktop app](https://github.com/IndiePython/nodezator): A multi-purpose visual node editor for the Python programming language.
 
-<img alt="nodezator screenshot" src="https://nodezator.com/images/screenshot.png" style="width:400px;" />
+<a href="https://github.com/IndiePython/nodezator"><img alt="nodezator screenshot" src="https://nodezator.com/images/screenshot.png" style="width:400px;" /></a>
 
 [Bionic Blue desktop game](https://github.com/IndiePython/bionic-blue): an action platformer game made with the pygame library; at an early stage of development, the prototype can already be played.
 
-<img alt="Bionic Blue screenshot" src="https://i.imgur.com/WvF1kum.png" style="width:400px;" />
+<a href="https://github.com/IndiePython/bionic-blue"><img alt="Bionic Blue screenshot" src="https://i.imgur.com/WvF1kum.png" style="width:400px;" /></a>
 
 
 ## Website repos
@@ -39,4 +39,4 @@ Writing pieces related to development in Indie Python projects
 
 [Dani to The Rescue desktop game](https://github.com/IndiePython/danittr): a game prototype made with the pygame library, a platformer game. A prototype not under development anymore. Published for educational purposes only.
 
-<img alt="Dani to The Rescue screenshot" src="https://i.imgur.com/mVItT7D.jpg" style="width:400px;" />
+<a href="https://github.com/IndiePython/danittr"><img alt="Dani to The Rescue screenshot" src="https://i.imgur.com/mVItT7D.jpg" style="width:400px;" /></a>
