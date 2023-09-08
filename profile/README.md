@@ -27,10 +27,7 @@ Below we present our repositories in an organized manner to help you find useful
 
 | Repo link | Description |
 | ---- | ----------- |
-| [indiepython.com](https://github.com/IndiePython/indiepython.com) | Website of the Indie Python project |
-| [nodezator.com](https://github.com/IndiePython/nodezator.com) | Website of the Nodezator desktop app |
 | [gallery.nodezator.com](https://github.com/IndiePython/gallery.nodezator.com) | Website wherein to find interesting node packs for the Nodezator desktop app |
-| [bionicblue.indiepython.com](https://github.com/IndiePython/bionicblue.indiepython.com) | Website of the Bionic Blue game |
 
 
 ### Project's development write ups
@@ -39,7 +36,7 @@ Writing pieces related to development in Indie Python projects
 
 | Repo link | Description |
 | ---- | ----------- |
-| [on-branching-looping-in-nodezator](https://github.com/IndiePython/on-branching-looping-in-nodezator) | Article on approach to implement branching and looping in Nodezator |
+| [on-branching-looping-in-nodezator](https://github.com/IndiePython/on-branching-looping-in-nodezator) | Article on approach/proposal to implement branching and looping in Nodezator (after discussing the contents with the community for several months, the proposal ended up being rejected) |
 
 
 ### Other projects
