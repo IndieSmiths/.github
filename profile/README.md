@@ -2,7 +2,7 @@
 
 Indie Python is a personal project by [@KennedyRichard](https://github.com/KennedyRichard) that aims to promote fun and learning by publishing and maintaining independent Python open-source apps, games and content.
 
-You can also find Kennedy (me) in one of those links: [github](https://github.com/KennedyRichard), [BlueSky](https://bsky.app/profile/kennedyrichard.com), [mastodon](https://fosstodon.org/@KennedyRichard), [twitter](https://github.com/KennedyRichard), [email](mailto:kennedy@kennedyrichard.com).
+You can also find Kennedy (me) in one of those links: [github](https://github.com/KennedyRichard), [BlueSky](https://bsky.app/profile/kennedyrichard.com), [mastodon](https://fosstodon.org/@KennedyRichard), [twitter/X](https://x.com/KennedyRichard), [email](mailto:kennedy@kennedyrichard.com).
 
 Below we present our repositories in an organized manner to help you find useful stuff.
 
