@@ -1,6 +1,7 @@
-# :wave: Welcome to Indie Python's github profile
+# :wave: Welcome to Indie Smiths's github profile
 
-Indie Python is a personal project by [@KennedyRichard](https://github.com/KennedyRichard) that aims to promote fun and learning by publishing and maintaining independent Python open-source apps, games and content.
+Indie Smiths is a personal project by [@KennedyRichard](https://github.com/KennedyRichard) that aims to promote and provide fun, learning and value by publishing and maintaining open-source apps, games and content.
+
 
 You can also find Kennedy (me) in one of those links: [github](https://github.com/KennedyRichard), [BlueSky](https://bsky.app/profile/kennedyrichard.com), [mastodon](https://fosstodon.org/@KennedyRichard), [twitter/X](https://x.com/KennedyRichard), [email](mailto:kennedy@kennedyrichard.com).
 
@@ -8,13 +9,13 @@ Below we present our repositories in an organized manner to help you find useful
 
 ## Highlights (fun or popular stuff):
 
-[Nodezator desktop app](https://github.com/IndiePython/nodezator): A multi-purpose visual node editor for the Python programming language.
+[Nodezator desktop app](https://github.com/IndieSmiths/nodezator): A multi-purpose visual node editor for the Python programming language.
 
-<a href="https://github.com/IndiePython/nodezator"><img alt="nodezator screenshot" src="https://nodezator.com/images/screenshot.png" style="width:400px;" /></a>
+<a href="https://github.com/IndieSmiths/nodezator"><img alt="nodezator screenshot" src="https://nodezator.com/images/screenshot.png" style="width:400px;" /></a>
 
-[Bionic Blue desktop game](https://github.com/IndiePython/bionic-blue): an action platformer game made with the pygame library; at an early stage of development, the prototype can already be played.
+[Bionic Blue desktop game](https://github.com/IndieSmiths/bionic-blue): an action platformer game made with the pygame library; at an early stage of development, the prototype can already be played.
 
-<a href="https://github.com/IndiePython/bionic-blue"><img alt="Bionic Blue screenshot" src="https://i.imgur.com/WvF1kum.png" style="width:400px;" /></a>
+<a href="https://github.com/IndieSmiths/bionic-blue"><img alt="Bionic Blue screenshot" src="https://i.imgur.com/WvF1kum.png" style="width:400px;" /></a>
 
 ❤️ Please, consider supporting my work at the Indie Python project so more free open-source apps, games and content can be produced and maintained steadily: [github sponsors page](https://github.com/sponsors/KennedyRichard), [more donation options](https://indiepython.com/donate);
 
@@ -27,7 +28,7 @@ Below we present our repositories in an organized manner to help you find useful
 
 | Repo link | Description |
 | ---- | ----------- |
-| [gallery.nodezator.com](https://github.com/IndiePython/gallery.nodezator.com) | Website wherein to find interesting node packs for the Nodezator desktop app |
+| [gallery.nodezator.com](https://github.com/IndieSmiths/gallery.nodezator.com) | Website wherein to find interesting node packs for the Nodezator desktop app |
 
 
 ### Project's development write ups
@@ -36,14 +37,14 @@ Writing pieces related to development in Indie Python projects
 
 | Repo link | Description |
 | ---- | ----------- |
-| [on-branching-looping-in-nodezator](https://github.com/IndiePython/on-branching-looping-in-nodezator) | Article on approach/proposal to implement branching and looping in Nodezator (after discussing the contents with the community for several months, the proposal ended up being rejected) |
+| [on-branching-looping-in-nodezator](https://github.com/IndieSmiths/on-branching-looping-in-nodezator) | Article on approach/proposal to implement branching and looping in Nodezator (after discussing the contents with the community for several months, the proposal ended up being rejected) |
 
 
 ### Other projects
 
-[Dani to The Rescue desktop game](https://github.com/IndiePython/danittr): a game prototype made with the pygame library, a platformer game. A prototype not under development anymore. Published for educational purposes only.
+[Dani to The Rescue desktop game](https://github.com/IndieSmiths/danittr): a game prototype made with the pygame library, a platformer game. A prototype not under development anymore. Published for educational purposes only.
 
-<a href="https://github.com/IndiePython/danittr"><img alt="Dani to The Rescue screenshot" src="https://i.imgur.com/mVItT7D.jpg" style="width:400px;" /></a>
+<a href="https://github.com/IndieSmiths/danittr"><img alt="Dani to The Rescue screenshot" src="https://i.imgur.com/mVItT7D.jpg" style="width:400px;" /></a>
 
 
 ## Issues and Discussions
@@ -109,6 +110,6 @@ If you have...
 
 ### Indie Python discussions
 
-The Indie Python organization profile also has a [discussion tab](https://github.com/orgs/IndiePython/discussions). Discussions held there are just like discussions for any other repository, but they should be used for matters involving the whole project/community, rather than an specific repo/app/game.
+The Indie Python organization profile also has a [discussion tab](https://github.com/orgs/IndieSmiths/discussions). Discussions held there are just like discussions for any other repository, but they should be used for matters involving the whole project/community, rather than an specific repo/app/game.
 
 So, all things presented in the subsection above about discussions also apply to the more general Indie Python discussions, but the matters should be related to the Indie Python project itself, rather than its repos.
